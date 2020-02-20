@@ -2,9 +2,5 @@ Esto es el fichero 2
 
 Escrito desde branch RamaNueva
 
-
-<<<<<<< HEAD
 Fichero modificado en local
-=======
-Fichero modificado en github
->>>>>>> 76d1d4532235a3be9a8c5ad040e36e8e9c6d8bc4
+
